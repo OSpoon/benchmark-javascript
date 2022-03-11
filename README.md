@@ -13,6 +13,7 @@
 1. 安装依赖：```npm install```；
 2. 运行Test：```npm run test```
 3. 输出结果：
+
 ![测试结果](./imgs/test-result.png)
 
 ### code simple:
